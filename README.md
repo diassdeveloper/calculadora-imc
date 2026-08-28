@@ -25,4 +25,3 @@ Calculadora de IMC desenvolvida em Python como projeto de aprendizado.
 ## Observação
 
 Este projeto foi desenvolvido durante meus estudos de Python. 
-As bibliotecas `sqlite3` e `datetime` foram implementadas com auxílio de IA (Claude - Anthropic) para fins de aprendizado.
